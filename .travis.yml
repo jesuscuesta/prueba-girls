@@ -1,5 +1,5 @@
-1language: node_js
-2node_js: "12"
-3script:
-4  - "npm test"
-5  - "npm run build"
+language: node_js
+node_js: "12"
+script:
+  - "npm test"
+  - "npm run build"
